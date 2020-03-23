@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(133, 83, 30, 0.7);
+}
+
+#principal {
+    height: 600px;
+    width: 35%;
+    background-color: rgba(189, 109, 25, 0.8);
+    box-shadow: 4px 4px 14px black;
+    margin: 0 auto;
+    margin-top: -10px;
+    border-radius: 25px;
+}
+
+#login {
+    text-align: center;
+    color: rgb(74, 61, 47);
+    width: 18%;
+    margin-left: 6.2in;
+    margin-top: 80px;
+    text-transform: uppercase;
+    font-family: 'Calistoga', cursive;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+#form1 {
+    padding: 10px;
+    text-align: center;
+}
+
+input[type=text] {
+    font-size: 24px;
+    margin-top: 60px;
+    padding: 22px;
+    border: 3px solid rgb(74, 61, 47);
+    width: 400px;
+    margin-left: auto;
+}
+
+input[type=password] {
+    font-size: 24px;
+    margin-top: 30px;
+    padding: 22px;
+    border: 3px solid rgb(74, 61, 47);
+    width: 400px;
+    margin-left: auto;
+}
+
+input[type=submit] {
+    font-size: 38px;
+    margin-top: 1.9in;
+    padding: 22px;
+    border: 3px solid rgb(74, 61, 47);
+    width: 240px;
+    margin-left: 2in;
+}
